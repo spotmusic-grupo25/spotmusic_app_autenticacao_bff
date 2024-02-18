@@ -39,6 +39,3 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
 </ul>
 
 
-![alt text](image.png)
-
-
